@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hunterwatson
+- 💻 I'm a Software Developer Engineer at [PagerDuty](https://www.pagerduty.com/)
+- 🌱 I’m currently learning making stupid little games :)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/hunter-s-watson/) or at hunter@hunterwatson.ca
